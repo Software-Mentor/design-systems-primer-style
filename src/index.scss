@@ -1,0 +1,8 @@
+// This is the root file for your design system. All modules converge
+// at this point to create one css file that can be imported into
+// into any project.
+
+@import './core/index.scss';
+@import './base/index.scss';
+@import './alerts/index.scss';
+@import './buttons/index.scss';
